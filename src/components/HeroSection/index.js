@@ -1,12 +1,13 @@
 import React from "react"
+// import Header from '../common/Header'
 import Button from "../common/Button";
 import './heroSection.css'
 
 const HeroSection = () => {
     return <div className="hero-section-wrapper">
         <div className="hero-claim-label flex absolute-center">
-            <div>pay credit card bill. earn guaranteed &#8377;</div>
-            <div className="claim-anchor">claim now</div>
+            <div>pay credit card bill. earn guaranteed &#8377;200 back.</div>
+            <div className="claim-anchor"> claim now</div>
         </div>
         <div className="flex absolute-center flex-col hero-section max-width">
             <div className="hero-heading">rewards for paying credit card bills.</div>

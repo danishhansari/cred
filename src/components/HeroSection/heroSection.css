@@ -6,8 +6,9 @@
     text-align: center;
 }
 .hero-heading{
-    font-size: 106px;
+    font-size: 140px;
     font-weight: 800;
+    line-height: 1;
 }
 .hero-subheading{
     font-size: 30px;
@@ -15,7 +16,19 @@
     margin: 35px 58px;
     line-height: 38px;
 }
-
+.hero-claim-label{
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 700;
+    background:var(--bg-grey);
+    width: 100%;
+    position: absolute;
+    padding-block: .7em;
+}
+.claim-anchor{
+    margin-left: .2em;
+    color: var(--link-blue);
+}
 @media all and (max-width:1279px){
     .hero-heading{
         font-size: 82px;

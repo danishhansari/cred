@@ -1,6 +1,7 @@
 @import './common/style/fonts/fonts.css';
 @import './common/style/variable.css';
 @import './common/style/commonClasses.css';
+@import './common/style/animations.css';
 
 body {
   margin: 0;
