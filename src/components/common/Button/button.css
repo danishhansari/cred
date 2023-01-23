@@ -8,10 +8,6 @@
     border-radius: 2.5em;
     width: max-content;
 }
-.button-wrapper:hover{
-    background: var(--bg-black);
-    color: var(--white);   
-}
 @media all and (max-width:767px) {
     .button-wrapper{
         font-size: 1.1em;
