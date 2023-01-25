@@ -1,6 +1,7 @@
 import React from "react"
 import Button from "../common/Button";
-import './heroSection.css';
+import './heroSection.css'
+
 const HeroSection = () => {
     return <div className="hero-section-wrapper">
         <div className="hero-claim-label flex absolute-center">
