@@ -1,3 +1,4 @@
+@import url('./variable.css');
 .hamburger {
     padding: 15px 15px;
     display: inline-block;
@@ -8,7 +9,7 @@
     font: inherit;
     color: inherit;
     text-transform: none;
-    background-color: var(--white);
+    background: transparent;
     border: 0px;
     margin: 0px;
     overflow: visible;
