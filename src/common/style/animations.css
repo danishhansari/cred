@@ -1,6 +1,7 @@
 @import url('./variable.css');
 .hamburger {
-    padding: 15px 15px;
+    padding-block: 10px;
+    padding-inline: 5px;
     display: inline-block;
     cursor: pointer;
     transition-property: opacity, filter;
