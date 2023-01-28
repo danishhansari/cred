@@ -19,7 +19,8 @@
     background-size: cover;
 }
 .photo-section-child{
-    padding: 240px 0px 100px;
+    /* padding: 240px 0px 100px; */
+    padding: 150px 0px 50px;
 } 
 .photo-section-heading{
     font-size: 100px;
@@ -39,7 +40,7 @@
     font-weight: 600;
     line-height:25px;
     max-width: 630px;
-    margin-top:200px;
+    margin-top:250px;
     margin-bottom: 40px;
 }
 @media all and (max-width:1279px) {
@@ -73,7 +74,7 @@
         font-weight: 500;
         font-size: 15px;
         line-height: 20px;
-        margin-top: 500px;
+        margin-top: 300px;
     }
     .photo-section-child{
         padding: 195px 0px 90px;

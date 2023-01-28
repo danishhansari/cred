@@ -11,7 +11,7 @@
 @media all and (max-width:767px){
     .feel-special{
       background-image: url('https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg-mobile.jpg');
-      min-height: 1150px;  
+      min-height: 850px;  
       background-position: right center ;
     }
 }
