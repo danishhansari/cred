@@ -15,4 +15,8 @@
       min-height: 850px;  
       background-position: right center ;
     }
+    .photo-section-description{
+        font-size: 19px;
+        font-weight: 600;
+    }
 }
