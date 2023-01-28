@@ -1,13 +1,13 @@
 import React from 'react';
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
-import Productshowcase from '../components/Productshowcase'
+import ProductShowcase from '../components/ProductShowcase'
 const HomePage = () => {
     return (
     <>
     <Header />
     <HeroSection />   
-    <Productshowcase />
+    <ProductShowcase />
     </>
     );
 }

@@ -14,9 +14,9 @@
 }
 .showcase-ui{
     position: absolute;
-    bottom: 0;
+    bottom:0px;
     left: 50%;
-    overflow: hidden;
+    overflow: hidden ;
 }
 .showcase-mockup-1{
     transform: translate(-160%,25%);
@@ -27,7 +27,7 @@
     z-index: 4;
 }
 .showcase-mockup-3{
-    transform: translate(-50%,12%);
+    transform: translate(-50%,5%);
     z-index: 5;
 }
 .showcase-mockup-4{
@@ -53,6 +53,9 @@
         background-image: url('https://web-images.credcdn.in/_next/assets/images/home-page/video-bg-mobile.png');
     }
     .showcase-ui {
+        position: absolute;
+        bottom: 110;
         width: 170px;
+
     }
 }

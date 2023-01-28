@@ -36,7 +36,7 @@
 }
 .mobile-navbar{
     margin: auto;
-    margin-top: 120px;
+    margin-top: 130px;
     width: 95%;
 }
 .mobile-nav-item{
@@ -51,7 +51,7 @@
 
 @media all and (max-width:1279px) {
     .header-logo{
-        height: 53px;
+        height: 48px;
     }
     .header-nav-item{
         margin: 0px 16px 0px 28px;
@@ -60,6 +60,6 @@
 
 @media all and (max-width:767px){
     .header{
-        padding-bottom :50px ;
+        padding-bottom :10px ;
     }
 }
