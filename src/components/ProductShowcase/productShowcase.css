@@ -1,6 +1,6 @@
 .product-showcase{
     width: 100%;
-    height: 800px;
+    height: 1000px;
     position: relative;
     overflow: hidden;
     background-image: url('https://web-images.credcdn.in/_next/assets/images/home-page/video-bg.png');
@@ -9,8 +9,7 @@
     background-position: right top;
 }
 .showcase-wrapper{
-    min-height: 70%;
-    overflow: hidden;
+    height: inherit;
 }
 .showcase-ui{
     position: absolute;
@@ -23,15 +22,15 @@
     z-index: 3;
 }
 .showcase-mockup-2{
-    transform: translate(-105%,15%);
+    transform: translate(-105%,12%);
     z-index: 4;
 }
 .showcase-mockup-3{
-    transform: translate(-50%,5%);
+    transform: translate(-50%,2%);
     z-index: 5;
 }
 .showcase-mockup-4{
-    transform: translate(5%,15%);
+    transform: translate(5%,12%);
     z-index: 4;
 }
 .showcase-mockup-5{

@@ -36,7 +36,7 @@ const ProductShowcase = () => {
                 <img src="https://web-images.credcdn.in/_next/assets/images/home-page/phone/right-2.png" className='showcase-ui showcase-mockup-4' alt="Mobile" />
                 <img src="https://web-images.credcdn.in/_next/assets/images/home-page/phone/right-1.png" className='showcase-ui showcase-mockup-5' alt="Mobile" />
             </div>
-           )}
+          )}
         </div>
     )
 }
