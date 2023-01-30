@@ -5,6 +5,7 @@ import ProductShowcase from '../components/ProductShowcase'
 import Feelspecial from '../components/FeelSpecial';
 import BrandsLove from '../components/BrandsLove';
 import CredExperience from '../components/CredExperience';
+import MobileScroll from '../components/MobileScroll';
 import WindowPeak from '../components/WindowPeak';
 import CredSecurity from '../components/CredSecurity';
 const HomePage = () => {
@@ -16,6 +17,7 @@ const HomePage = () => {
     <Feelspecial />
     <BrandsLove />
     <CredExperience />
+    <MobileScroll />
     <div className='non-mobile'>
     <WindowPeak />
     </div>

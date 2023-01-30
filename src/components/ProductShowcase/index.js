@@ -27,6 +27,7 @@ const ProductShowcase = () => {
     });
 
     return (
+        <div className="dark-bg">
         <div className={`product-showcase ${showAnimation ? 'scale-up-bottom':''}`} ref={ref}>
            {showAnimation && (
            <div className="showcase-wrapper">
@@ -37,6 +38,7 @@ const ProductShowcase = () => {
                 <img src="https://web-images.credcdn.in/_next/assets/images/home-page/phone/right-1.png" className='showcase-ui showcase-mockup-5' alt="Mobile" />
             </div>
           )}
+        </div>
         </div>
     )
 }
