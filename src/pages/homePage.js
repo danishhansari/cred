@@ -8,6 +8,7 @@ import CredExperience from '../components/CredExperience';
 import MobileScroll from '../components/MobileScroll';
 import WindowPeak from '../components/WindowPeak';
 import CredSecurity from '../components/CredSecurity';
+import CredStory from '../components/CredStory';
 const HomePage = () => {
     return (
     <>
@@ -22,6 +23,7 @@ const HomePage = () => {
     <WindowPeak />
     </div>
     <CredSecurity />
+    <CredStory />
     </>
     );
 }
