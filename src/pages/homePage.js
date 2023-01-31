@@ -9,6 +9,7 @@ import MobileScroll from '../components/MobileScroll';
 import WindowPeak from '../components/WindowPeak';
 import CredSecurity from '../components/CredSecurity';
 import CredStory from '../components/CredStory';
+import AppRating from '../components/AppRating';
 const HomePage = () => {
     return (
     <>
@@ -24,6 +25,7 @@ const HomePage = () => {
     </div>
     <CredSecurity />
     <CredStory />
+    <AppRating />
     </>
     );
 }
