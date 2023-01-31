@@ -10,6 +10,7 @@ import WindowPeak from '../components/WindowPeak';
 import CredSecurity from '../components/CredSecurity';
 import CredStory from '../components/CredStory';
 import AppRating from '../components/AppRating';
+import Footer from '../components/Footer';
 const HomePage = () => {
     return (
     <>
@@ -26,6 +27,7 @@ const HomePage = () => {
     <CredSecurity />
     <CredStory />
     <AppRating />
+    <Footer />
     </>
     );
 }
